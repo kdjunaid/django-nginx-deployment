@@ -33,11 +33,5 @@ You’ll find a customizable `gunicorn.service` file for systemd located at `/et
 Nginx server block configuration is provided in `nginx-config/mysite`.
 
 ## 👨‍💻 Author
-
-**KD Jonaid**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-
-## 📝 License
-
-MIT
+*KD Jonaid*
+📧 kdjonaid.raninagar@gmail.com 
